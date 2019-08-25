@@ -1,5 +1,5 @@
 Column Name,Definition
-TransactionId,Unique �transaction identifier on platform
+TransactionId,Unique transaction identifier on platform
 BatchId,Unique number assigned to a batch of transactions for processing
 AccountId,Unique number identifying the customer on platform
 SubscriptionId,Unique number identifying the customer subscription
